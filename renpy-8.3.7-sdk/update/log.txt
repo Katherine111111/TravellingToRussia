@@ -1,0 +1,78 @@
+Verifying with ECDSA.
+Verified with ECDSA.
+Verifying with RSA.
+Verified with RSA.
+--------------------------------------------------------------------------------
+Starting update at Thu Sep 11 18:06:47 2025.
+Removing identical files:
+  new     web/hash.txt
+  new     web/index.html
+  new     web/index.html.symbols
+  new     web/manifest.json
+  new     web/renpy-pre.js
+  new     web/renpy.data
+  new     web/renpy.js
+  new     web/renpy.wasm
+  new     web/service-worker.js
+  new     web/web-icon.png
+  new     web/web-presplash.jpg
+0 files are unchanged.
+11 files are new/changed.
+Created a plan with 27 entries.
+42f8ef90b1111d458e4ddc9898ff8114d15528f95fea29941f1ca233f1859cb9.rpu (35622056, 57)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/hash.txt (0, 64) compressed
+Blockfile delete C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\update\42f8ef90b1111d458e4ddc9898ff8114d15528f95fea29941f1ca233f1859cb9.rpu.
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (15, 1144617)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/web-presplash.jpg (0, 1144617) 
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (1144632, 51505)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/web-icon.png (0, 51505) 
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (1196137, 942)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/service-worker.js (0, 2573) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (1197079, 746788)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (0, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (1943867, 710244)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (2097152, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (2654111, 631542)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (4194304, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (3285653, 580522)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (6291456, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (3866175, 512524)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (8388608, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (4378699, 510375)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (10485760, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (4889074, 443973)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (12582912, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (5333047, 802158)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (14680064, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (6135205, 831721)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (16777216, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (6966926, 261165)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.wasm (18874368, 629266) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (7228091, 95778)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.js (0, 396387) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (7323869, 874478)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (0, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (8198347, 639484)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (2097152, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (8837831, 683902)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (4194304, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (9521733, 854406)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (6291456, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (10376139, 863475)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (8388608, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (11239614, 844078)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (10485760, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (12083692, 716723)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (12582912, 2097152) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (12800415, 685674)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy.data (14680064, 1690062) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (13486089, 8524)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/renpy-pre.js (0, 29381) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (13494613, 475)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/manifest.json (0, 2640) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (13495088, 270804)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/index.html.symbols (0, 1228770) compressed
+7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu (13765892, 1944)
+  -> C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\web/index.html (0, 6082) compressed
+Blockfile delete C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\update\7a47ef3b4cdeb4861ccfce47c9ff3a803237a361b8b7dc37ee7fb38db4b4f6b4.rpu.
+Final delete C:\Users\MAMALUKS\OneDrive\Рабочий стол\Новая папка\renpy\renpy-8.3.7-sdk\_padding.old.rpa.

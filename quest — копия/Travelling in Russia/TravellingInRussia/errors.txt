@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 5: invalid syntax
+    ("guide_name", color="#3289bb", dynamic=True)
+                         ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Sun Sep 28 10:12:59 2025
